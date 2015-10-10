@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+.vimrc  encoding=cp932
+.gvimrc encoding=cp932
+

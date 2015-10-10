@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!.gitattributes
+
+!.emacs.d/
+!.emacs.d/*.el
+
+!vimfiles/
+!vimfiles/*.vim
+
